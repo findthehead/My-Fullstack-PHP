@@ -1,0 +1,1 @@
+***this is simple PHP app which authenticate the user with the underlying Database***
